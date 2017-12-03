@@ -1,0 +1,59 @@
+[
+	{
+		"title": "Leafix",
+		"description": "Application too look up movies, tv shows and celebrities. Powered by TheMovieDB.",
+		"links": {
+			"github": "https://github.com/munya98/Media-2.0",
+			"live": "http://leafix.munya.me"
+		},
+		"tags": [
+			"PHP",
+			"Laravel",
+			"MySQL",
+			"VueJS"
+		],
+		"extra" : "Working progress"
+	},
+	{
+		"title": "Image Gallery",
+		"description": "Image management system.",
+		"links": {
+			"github": "https://github.com/munya98/Laravel-Image-Gallery",
+			"live": "http://gallery.munya.me"
+		},
+		"tags": [
+			"PHP",
+			"Laravel",
+			"MySQL",
+			"JQuery"
+		]
+
+	},
+	{
+		"title": "Media 1.0",
+		"description": "Simple version of the leafix app but created with NodeJS",
+		"links": {
+			"github": "https://github.com/munya98/Media",
+			"live": "https://mc-media.herokuapp.com/#/"
+		},
+		"tags": [
+			"NodeJS",
+			"VueJS",
+			"JQuery"
+		]
+
+	},
+	{
+		"title": "Slackbot",
+		"description": "Get restaurant information and locations displayed in slack. Powered by the Yelp API",
+		"links": {
+			"github": "https://github.com/munya98/SlackBot"
+		},
+		"tags": [
+			"NodeJS",
+			"Slackbots"
+		],
+		"extra": ""
+
+	}
+]
