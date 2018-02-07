@@ -1,4 +1,18 @@
 [
+
+	{
+		"title": "Computer Vision",
+		"description": "Testing out Clarifai Computer Vision AI",
+		"links": {
+			"github": "https://github.com/munya98/Computer-Vision-AI-Test",
+			"live": "https://cleef.herokuapp.com/"
+		},
+		"tags": [
+			"NodeJS",
+			"ReactJS",
+			"Clarifai",
+		],
+	},
 	{
 		"title": "Leafix",
 		"description": "Application too look up movies, tv shows and celebrities. Powered by TheMovieDB.",
