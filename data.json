@@ -18,7 +18,7 @@
 		"description": "Application too look up movies, tv shows and celebrities. Powered by TheMovieDB.",
 		"links": {
 			"github": "https://github.com/munya98/Media-2.0",
-			"live": "http://leafix.munya.me"
+			"live": "#"
 		},
 		"tags": [
 			"PHP",
@@ -33,14 +33,15 @@
 		"description": "Image management system.",
 		"links": {
 			"github": "https://github.com/munya98/Laravel-Image-Gallery",
-			"live": "http://gallery.munya.me"
+			"live": "#"
 		},
 		"tags": [
 			"PHP",
 			"Laravel",
 			"MySQL",
 			"JQuery"
-		]
+		],
+		"extra": "Hosting problems :("
 
 	},
 	{
